@@ -5,7 +5,10 @@
 // int main()
 // {
 // int x,y;
-// cin>>x>>y;
+// cout<<"Enter first Number : ";
+// cin>>x;
+// cout<<"Enter second Number : ";
+// cin>>y;
 // x+=y;
 // x-=y;
 // x%=y;
@@ -13,5 +16,4 @@
 // }
 
 // OUTPUT:
-// 2 3
 // 2
