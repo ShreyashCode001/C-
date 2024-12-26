@@ -5,7 +5,10 @@ using namespace std;
 
 int main() {
     char ch1, ch2;
-    cin >> ch1 >> ch2;
+    cout<<"Enter first Character : ";
+    cin >> ch1;
+    cout<<"Enter second Character : ";
+    cin>> ch2;
     int difference = (char)ch1 - (char)ch2;
     cout << "Difference between ASCII values: " << difference << endl;
     return 0;
