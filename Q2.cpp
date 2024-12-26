@@ -17,5 +17,5 @@
 // Enter first number
 // 3
 // Enter second number
-// 3
-// 0 1
+// 2
+// 1 1
